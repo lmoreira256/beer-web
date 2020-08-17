@@ -8,7 +8,7 @@
 
 Demonstração do app:
 
-<img src="./github_assets/demo.gif" width="200px" />
+<img src="./github_assets/demo.gif" />
 
 ---
 
